@@ -1,10 +1,10 @@
 ---
-title: "Active solver"
+title: "Research paper about RNA's guanine quadruplexes"
 date: 2023-11-01
 draft: false
-project_tags: ["physics", "programming"]
-status: "growing"
-summary: "A cpp code exported to python for equations of motion integration."
+project_tags: ["research"]
+status: "evergreen"
+summary: "Lorem Ipsum"
 links:
     another_link:
         text: "Check the code"

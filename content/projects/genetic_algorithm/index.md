@@ -3,7 +3,7 @@ title: "Breeding cellular automatons with genetic algorithm"
 date: 2023-11-01
 draft: false
 project_tags: ["programming"]
-status: "Evergreen"
+status: "evergreen"
 summary: "A search of cellular automatons through genetic algorithm to always get checkerboard."
 links:
     another_link:
