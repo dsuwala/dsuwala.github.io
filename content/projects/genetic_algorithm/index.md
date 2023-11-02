@@ -1,11 +1,10 @@
 ---
-title: "Reaction Diffusion solver"
-date: 2023-10-31
+title: "Breeding cellular automatons with genetic algorithm"
+date: 2023-11-01
 draft: false
-project_tags: ["physics"]
-status: "evergreen"
-summary: "A cpp module exported to python to solve physical system of two reacting and diffusing substances 
-(Gray-Scott model)."
+project_tags: ["programming"]
+status: "Evergreen"
+summary: "A search of cellular automatons through genetic algorithm to always get checkerboard."
 links:
     another_link:
         text: "Check the code"

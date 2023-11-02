@@ -1,13 +1,13 @@
 ---
-title: "This homepage"
+title: "Active solver"
 date: 2023-11-01
 draft: false
 project_tags: ["programming"]
-status: "seeding"
-summary: "An interactive homepage able to demonstrate my projects."
+status: "Growing"
+summary: "A cpp code exported to python for equations of motion integration."
 links:
     another_link:
-        text: "Check code"
+        text: "Check the code"
         icon: "fab alt brands fa-github"
         href: "#"
         weight: 1
