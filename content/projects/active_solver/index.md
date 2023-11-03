@@ -2,7 +2,7 @@
 title: "Active solver"
 date: 2023-11-01
 draft: false
-project_tags: ["physics", "programming"]
+project_tags: ["physics", "programming", "python", "c++"]
 status: "growing"
 summary: "A cpp code exported to python for equations of motion integration."
 links:

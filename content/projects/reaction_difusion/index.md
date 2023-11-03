@@ -2,7 +2,7 @@
 title: "Reaction Diffusion solver"
 date: 2023-10-31
 draft: false
-project_tags: ["physics", "programming"]
+project_tags: ["physics", "programming", "python", "C++"]
 status: "evergreen"
 summary: "A cpp module exported to python to solve physical system of two reacting and diffusing substances 
 (Gray-Scott model)."
