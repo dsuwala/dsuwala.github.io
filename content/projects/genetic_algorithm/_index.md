@@ -1,17 +1,8 @@
 ---
-title: "Finding checkerboard cellular automatons"
-date: 2023-11-01
-draft: false
-project_tags: ["python", "programming"]
-status: "evergreen"
-summary: "A search of cellular automatons through genetic algorithm to always get checkerboard."
-links:
-    another_link:
-        text: "Check the code"
-        icon: "fab alt brands fa-github"
-        href: "https://github.com/dsuwala/small_projects/blob/main/genetic_algorithm.ipynb"
-        weight: 1
+title: "Projects: Cellular automatons training"
+type: "page"
 ---
+
 ## Summary
 A cellular automaton (CA) is a grid of cells which can be in one of (finite) states like zero or 
 one and a set of rules which changes states according to states of neighboring cells. One 

@@ -1,8 +1,6 @@
 ---
-title: "Dominik Suwala"
-date: 2023-11-01
-summary: "Computational physicist, molecular modeling adept, freelancer"
-layout: about
+title: "About me"
+type: "page"
 ---
 <!-- I'm a Computational Physics Master with interests in computational biology and chemistry. Especially development of new pharmaceuticals. 
 I want to develop in the field of drug discovery and be part of this discipline in the future. What drives me is the belief that through science we can make world a better place. I want to be part of such process.
