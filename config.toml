@@ -12,10 +12,10 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "Dominik Suwala"
-  description = "Computational physicist, python programmer"
-  avatarURL = ""
-  AvatarAltText = ""
-  avatarSize = ""
+  description = "Computational physicist, python programmer, upwork freelancer"
+  #avatarURL = ""
+  #AvatarAltText = ""
+  #avatarSize = ""
   ShowBackToTopButton = true # true or false for "back to top" button on posts
   socialIcons = [
     {name = "linkedin", url = "https://www.linkedin.com/in/dominik-suwa%C5%82a-432b04237/"},
