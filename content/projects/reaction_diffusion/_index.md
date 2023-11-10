@@ -3,6 +3,15 @@ title: "Projects: Reaction Diffusion"
 image: "featured.png"
 type: "page"
 ---
+## Related tech stack
+- C++ and python 
+- C++ for high-performance library to be used in python
+- matpltlib for data visualisation, including animations
+- C++ including object oriented programming 
+- cmake as a build system
+- unit tests through googletest
+- pybind to connect c++ and python code
+
 ## Summary 
 This project consists of c++ implementation of an equation's solver which is exported to python. In this 
 case the equations 

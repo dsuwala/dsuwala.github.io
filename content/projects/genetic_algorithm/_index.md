@@ -2,6 +2,11 @@
 title: "Projects: Cellular automatons training"
 type: "page"
 ---
+## Related tech stack:
+- python
+- object oriented programming
+- numpy & vectorization 
+- matploblib with animations
 
 ## Summary
 A cellular automaton (CA) is a grid of cells which can be in one of (finite) states like zero or 
