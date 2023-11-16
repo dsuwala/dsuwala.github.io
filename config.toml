@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 
 [params]
   footer = "Dominik Suwala"
-  description = "Computational physicist, python programmer, upwork freelancer"
+  description = "Computational physicist, python programmer, mollecular modelling adept"
   #avatarURL = ""
   #AvatarAltText = ""
   #avatarSize = ""
@@ -22,7 +22,7 @@ pygmentsStyle = "monokai"
     {name = "github", url = "https://github.com/dsuwala"},
     {name = "upwork", url = "https://www.upwork.com/freelancers/~01143f983a2105fbfa"},
   ]
-  metaKeywords = ["physics", "high performance computing", "freelancer", "upwork"]
+  metaKeywords = ["physics", "high performance computing", "freelancer", "upwork", "drug design"]
 
 [menu]
   [[menu.main]]
